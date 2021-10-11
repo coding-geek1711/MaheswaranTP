@@ -1,0 +1,8 @@
+input {
+    color: white;
+}
+
+input:focus {
+    outline:none;
+    color: black;
+}
