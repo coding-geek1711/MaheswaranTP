@@ -12,7 +12,7 @@ export default function About() {
                 <div className="whoami-container w-72 m-10 flex flex-col">
                     <h2 className="text-white text-3xl mb-8 text-center">Who am I?</h2>
                     <p className="text-grayPrimary text-xl">
-                    I am currently a Second Year student at Federal Institute of Science and Technology, Angamaly. I am a budding Software Developer and proficient in Javascript and Python. I also actively work in Artificial Intelligence and Deep Learning and am constantly looking for interesting technologies. I enjoy reading, swimming and sometimes playing my guitar.
+                    I am currently a Final Year student at Federal Institute of Science and Technology, Angamaly. I am a budding Software Developer and proficient in Javascript and Python. I also actively work in Artificial Intelligence and Deep Learning and am constantly looking for interesting technologies. I enjoy reading, swimming and sometimes playing my guitar.
                     </p>
                 </div>
                 <div className="contact-container h-72 w-72 m-10 flex flex-col justify-center">
