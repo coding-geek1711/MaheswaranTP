@@ -24,7 +24,8 @@ export default function About() {
                 </div>
             </div>
             <div className="w-3/4 h-24">
-                <a href="https://docs.google.com/document/d/1lv6U1TK_SbdMns_0rlnwtMs2S7aGq03y/edit?usp=sharing&ouid=104201969490320282020&rtpof=true&sd=true"></a>
+                <a href="
+                https://docs.google.com/document/d/1lv6U1TK_SbdMns_0rlnwtMs2S7aGq03y/edit?usp=sharing&ouid=104201969490320282020&rtpof=true&sd=true"></a>
                 <ResumeButton size={"w-full h-full"}></ResumeButton>
             </div>
         </div>
