@@ -72,7 +72,7 @@ export default function Navbar({ setToggle, toggle, scrollRef, footerRef }) {
               <li className="nav-item">
                 <a
                   className="navlink px-3 py-2 flex items-center text-lg uppercase font-bold leading-snug text-white hover:text-greenWebsite hover:underline focus:text-greenWebsite focus:underline transition"
-                  href="#pablo"
+                  href="https://github.com/maheswarantp"
                 >
                     Projects
                 </a>
