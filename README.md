@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TerminalOS, a 32 bit x86 OS written from scratch**
 
-- 🌱 I’m currently learning **JAX, Tensorflow, Pytorch**
+- 🌱 I’m currently learning **Diffusion Models and LLMs**
 
 - 📫 How to reach me **mahestpm@gmail.com**
 
